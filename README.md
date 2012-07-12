@@ -1,0 +1,4 @@
+GRM
+===
+
+A easy algorithm 
